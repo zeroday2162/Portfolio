@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/zerocoke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hackerj.kr
+  * I am zerocoke (https://keybase.io/zerocoke) on keybase.
+  * I have a public key ASDTveFfr6vJjsOmrUX4jIQHT9J4YT_4jpD4xEEJE3U6ggo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d3bde15fafabc98ec3a6ad45f88c84074fd278613ff88e90f8c4410913753a820a",
+      "host": "keybase.io",
+      "kid": "0120d3bde15fafabc98ec3a6ad45f88c84074fd278613ff88e90f8c4410913753a820a",
+      "uid": "998023f10cc108b0eb4183044055a519",
+      "username": "zerocoke"
+    },
+    "merkle_root": {
+      "ctime": 1695476467,
+      "hash": "42ee05f41fb2d00279bb2c7c1d65b66aad5a958dc1be3427681c2761f4448ad5edca634a05301e7d3e0d56abc4bba4678115f030f16d42da7f251a6839a4d6ff",
+      "hash_meta": "379bbfe4b1c63e2dfa65497f52b932b46b5c5165007dc7f60e1398f9c5334387",
+      "seqno": 24951763
+    },
+    "service": {
+      "entropy": "e8ORVH3jvyOUFx1bdCXN8lWd",
+      "hostname": "hackerj.kr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.2"
+  },
+  "ctime": 1695476493,
+  "expire_in": 504576000,
+  "prev": "1438389abf3a1bb831ff0c7d6de7b81d17b66872cbd7ff1b7258e6d5486ae131",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg073hX6+ryY7Dpq1F+IyEB0/SeGE/+I6Q+MRBCRN1OoIKp3BheWxvYWTESpcCDsQgFDg4mr86G7gx/wx9bee4HRe2aHLL1/8bcljm1Uhq4THEIIR3hvb93vR6DONWxot6wR7oRDREqwmuNULoL2R773/wAgHCo3NpZ8RAmUp/Hq80aIowZb9v2hbwIVERL3vYiMiWVCl2aZsPNkcci+gVul3n2r6bmsdVPKAuMlAx+fkHPK/Euj7xhu7kBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC9GG2W0ymJP/CHmyInFqFxcNadFFCl4wC6KEsH1kYeso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zerocoke
+
+==================================================================
